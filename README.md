@@ -1,4 +1,4 @@
-### Setting up a Raspberry Pi as an autonomous WIFI Access Point with an MQTT broker ###
+### Just enough instructions to set up a Raspberry Pi as an autonomous WIFI Access Point with an MQTT broker ###
 
 
 
