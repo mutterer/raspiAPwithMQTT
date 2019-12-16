@@ -61,8 +61,10 @@ $ sudo apt-get full-upgrade
 * In this empty file, copy/paste the following lines defining the dhcp range of addresses and the lease time, here 24 hours.
 
 
+```
     interface=wlan0      # Use the require wireless interface - usually wlan0
     dhcp-range=192.168.4.2,192.168.4.20,255.255.255.0,24h
+```
 
 
 * Reload dnsmasq to use the updated configuration:
