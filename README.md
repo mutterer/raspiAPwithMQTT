@@ -9,8 +9,8 @@
 * Start with making sure you run the latest versions of all things
 
 ```
-$ sudo apt-get update
-$ sudo apt-get full-upgrade
+    $ sudo apt-get update
+    $ sudo apt-get full-upgrade
 ```
 
 #### Setup the WIFI Access point ####
@@ -181,7 +181,7 @@ $ sudo apt-get full-upgrade
 ```
 
 
-#### Install MQQT Broker ####
+#### Install MQTT Broker ####
 
 
 * Now setup the MQTT broker and a test client. This is explained in details [here](
